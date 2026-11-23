@@ -1,0 +1,10 @@
+.venv/
+.venv-phase1/
+.venv-uv/
+__pycache__/
+.pytest_cache/
+runs/
+/.env
+/.env.*
+/.idea/
+/.codex/
